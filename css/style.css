@@ -198,7 +198,7 @@ body{
     transform: translateX(200%);
 }
 
-@media screen and (max-width: 450px){
+@media screen and (min-width:350px) and (max-width: 450px){
     h1{
         font-size: 20px;
     }
